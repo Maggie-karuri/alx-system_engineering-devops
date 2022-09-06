@@ -1,8 +1,8 @@
-Task 0 
-Task 1 
-Task 2 
-Task 3 
-Task 4
+Task 0: Replace list with remove. 
+Task 1: Whenever the command $USER is called it prints the current user. In this case, if the command output's the current user, then 'hello user' is printed.
+Task 2: Adds /action directory whenever a path is looked up.
+Task 3: The code creates a counter which counts the directories and subdirectories in the PATH, listing the total number in this path.
+Task 4: The code 
 Task 5
 Task 6
 Task 7
